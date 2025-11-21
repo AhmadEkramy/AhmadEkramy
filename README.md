@@ -5,7 +5,13 @@
 A passionate software engineer focused on building modern, scalable, and high-quality applications. I have strong experience in frontend development, full‑stack systems, cloud‑native applications, and artificial intelligence.
 
 ---
+###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 ## 🚀 About Me
 
 * 👨‍💻 Software Engineer interested in creating scalable and user‑friendly systems.
