@@ -34,7 +34,6 @@ A passionate software engineer focused on building modern, scalable, and high-qu
   <img src="https://skillicons.dev/icons?i=c" width="40" />
   <img src="https://skillicons.dev/icons?i=html" width="40" />
   <img src="https://skillicons.dev/icons?i=css" width="40" />
-  <img src="https://skillicons.dev/icons?i=mysql" width="40" />
   <img src="https://skillicons.dev/icons?i=dart" width="40" />
   <img src="https://skillicons.dev/icons?i=firebase" width="40" />
   <img src="https://skillicons.dev/icons?i=bootstrap" width="40" />
