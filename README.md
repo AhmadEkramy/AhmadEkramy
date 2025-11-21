@@ -2,19 +2,34 @@
 
 ## 💼 Software Engineer | AI & Full-Stack Developer | Frontend Specialist
 
-طالب هندسة اتصالات وحاسبات بجامعة المنصورة، مطور برمجيات شغوف ببناء تطبيقات حديثة عالية الجودة. لدي خبرة واسعة في تطوير الواجهات الأمامية، الأنظمة الكاملة (Full-Stack)، التطبيقات السحابية، بالإضافة إلى الذكاء الاصطناعي.
+A passionate software engineer focused on building modern, scalable, and high-quality applications. I have strong experience in frontend development, full‑stack systems, cloud‑native applications, and artificial intelligence.
 
 ---
 
 ## 🚀 About Me
 
-* 👨‍💻 Software Engineer مهتم ببناء أنظمة قابلة للتوسع وسهلة الاستخدام.
-* 🌐 خبرة قوية في **React, TypeScript, Tailwind, Firebase, Next.js, Node.js**.
-* 🤖 اهتمام خاص بالذكاء الاصطناعي والتعلم العميق.
-* 🏆 حاصل على **A+** في مشروع التخرج *Health Pulse*.
-* 🧑‍🏫 عملت **Programming Instructor** في YAT بالتعاون مع Udacity.
-* 🏅 مشارك في مسابقات برمجية مثل **ECPC**, **Digitoipia**, **DevDuel**.
-* 📚 الآن أتعلم **اللغة الألمانية – مستوى A1**.
+* 👨‍💻 Software Engineer interested in creating scalable and user‑friendly systems.
+* 🌐 Strong experience with **React, TypeScript, Tailwind, Firebase, Next.js, Node.js**.
+* 🤖 Passionate about AI, machine learning, and deep learning.
+* 🏆 Achieved **A+** in my graduation project *Health Pulse*.
+* 🧑‍🏫 Former **Programming Instructor** at YAT (Udacity partner).
+* 🏅 Participant in competitive events like **ECPC**, **DevDuel**, and **DIGITOPIA AI Competition**.
+* 📚 Currently learning **German – Level A1**.
+
+---
+
+## 🛠️ Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js" width="40" />
+  <img src="https://skillicons.dev/icons?i=ts" width="40" />
+  <img src="https://skillicons.dev/icons?i=python" width="40" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="40" />
+  <img src="https://skillicons.dev/icons?i=cs" width="40" />
+  <img src="https://skillicons.dev/icons?i=html" width="40" />
+  <img src="https://skillicons.dev/icons?i=css" width="40" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="40" />
+</p>
 
 ---
 
@@ -40,17 +55,17 @@ Git • GitHub • Problem Solving • Software Architecture • Cybersecurity B
 
 ## 🧠 Competitive Programming
 
-* شاركت في **ECPC** وحصلت على المركز الأول على مستوى الجامعة.
-* حللت أكثر من 12 مسألة في مسابقات رسمية.
-* خبرة بـ C++ وتقنيات حل المشكلات الخوارزمية.
+* Participated in **ECPC** and ranked **1st place** at the university level.
+* Solved 12+ algorithmic problems in official contests.
+* Experienced with C++ and competitive problem‑solving techniques.
 
 ---
 
 ## 🏆 Achievements & Badges
 
 * Badge: **Software Engineering (Developer L1)** – Badge ID: *8he3diOrSdeXt3YjqznXEA*
-* مؤهل للجولة الثانية في **DIGITOPIA AI Competition 2025**.
-* Expert في بناء تطبيقات **Full-Stack Cloud-Native**.
+* Qualified for Round 2 in **DIGITOPIA AI Competition 2025**.
+* Skilled in building **Full‑Stack Cloud‑Native** applications.
 
 ---
 
@@ -58,35 +73,36 @@ Git • GitHub • Problem Solving • Software Architecture • Cybersecurity B
 
 ### **🔹 Health Pulse – A+ Grade**
 
-تطبيق ويب ثنائي اللغة لتتبع الصحة الشخصية، باستخدام الذكاء الاصطناعي للتنبؤات الصحية وتوصيات مخصصة.
+A bilingual web app for personal health tracking with AI‑powered predictions and smart recommendations.
 
-### **🔹 Next-Generation Social Platform**
+### **🔹 Next‑Generation Social Platform**
 
-منصة إنتاجية وجاميفيكيشن بمدرب ذكاء اصطناعي، ودوائر مهارية.
+Productivity and self‑improvement platform with gamification and an AI personal coach.
 
 ### **🔹 Muscles Action – E‑Commerce Platform**
 
-منصة تجارة إلكترونية كاملة مع Dashboard وإدارة طلبات Real‑Time.
+A full e‑commerce system with real‑time orders management and admin dashboard.
 
 ### **🔹 Grand Slam – Padel Court Booking**
 
-موقع حجز ملاعب بادل بواجهات عصرية ولوحة إدارة كاملة.
+A sleek booking platform with full admin control and real‑time updates.
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmed\&show_icons=true\&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed\&layout=compact\&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadEkramy\&show_icons=true\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadEkramy\&layout=compact\&theme=radical)
 
 ---
 
 ## 🌍 Connect With Me
 
-* 📂 **Portfolio:** [My Portfolio](#)
-* 📄 **CV:** [My CV](#)
-* 💼 LinkedIn: [Ahmed](#)
-* 🧑‍💻 GitHub: [Ahmed](#)
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/ahmadekrami/](https://www.linkedin.com/in/ahmadekrami/)
+* 📸 **Instagram:** [https://www.instagram.com/_ahmedekramy/](https://www.instagram.com/_ahmedekramy/)
+* 📘 **Facebook:** [https://www.facebook.com/ahmed.ekramy.343411](https://www.facebook.com/ahmed.ekramy.343411)
+* 📂 **Portfolio:** [Coming Soon]
+* 📄 **CV:** [Coming Soon]
 
 ---
 
