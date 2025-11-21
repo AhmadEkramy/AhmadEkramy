@@ -43,15 +43,6 @@ A passionate software engineer focused on building modern, scalable, and high-qu
 ---
 
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
-
-
 ## 🛠️ Tech Stack & Tools
 
 ### **Frontend**
