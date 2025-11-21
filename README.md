@@ -1,49 +1,95 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# Hi, I'm Ahmed 👋
 
-###
+## 💼 Software Engineer | AI & Full-Stack Developer | Frontend Specialist
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+طالب هندسة اتصالات وحاسبات بجامعة المنصورة، مطور برمجيات شغوف ببناء تطبيقات حديثة عالية الجودة. لدي خبرة واسعة في تطوير الواجهات الأمامية، الأنظمة الكاملة (Full-Stack)، التطبيقات السحابية، بالإضافة إلى الذكاء الاصطناعي.
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## 🚀 About Me
 
-###
+* 👨‍💻 Software Engineer مهتم ببناء أنظمة قابلة للتوسع وسهلة الاستخدام.
+* 🌐 خبرة قوية في **React, TypeScript, Tailwind, Firebase, Next.js, Node.js**.
+* 🤖 اهتمام خاص بالذكاء الاصطناعي والتعلم العميق.
+* 🏆 حاصل على **A+** في مشروع التخرج *Health Pulse*.
+* 🧑‍🏫 عملت **Programming Instructor** في YAT بالتعاون مع Udacity.
+* 🏅 مشارك في مسابقات برمجية مثل **ECPC**, **Digitoipia**, **DevDuel**.
+* 📚 الآن أتعلم **اللغة الألمانية – مستوى A1**.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+---
 
-###
+## 🛠️ Tech Stack & Tools
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+### **Frontend**
 
-###
+React • TypeScript • JavaScript • HTML • CSS • Tailwind CSS • Bootstrap
 
-<br clear="both">
+### **Backend & Cloud**
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+Node.js • Express • Firebase • MongoDB • SQL • Docker • Kubernetes • CI/CD
 
-###
+### **AI & Data**
+
+Python • TensorFlow • AI/ML • Data Processing
+
+### **Other Skills**
+
+Git • GitHub • Problem Solving • Software Architecture • Cybersecurity Basics
+
+---
+
+## 🧠 Competitive Programming
+
+* شاركت في **ECPC** وحصلت على المركز الأول على مستوى الجامعة.
+* حللت أكثر من 12 مسألة في مسابقات رسمية.
+* خبرة بـ C++ وتقنيات حل المشكلات الخوارزمية.
+
+---
+
+## 🏆 Achievements & Badges
+
+* Badge: **Software Engineering (Developer L1)** – Badge ID: *8he3diOrSdeXt3YjqznXEA*
+* مؤهل للجولة الثانية في **DIGITOPIA AI Competition 2025**.
+* Expert في بناء تطبيقات **Full-Stack Cloud-Native**.
+
+---
+
+## 📌 Featured Projects
+
+### **🔹 Health Pulse – A+ Grade**
+
+تطبيق ويب ثنائي اللغة لتتبع الصحة الشخصية، باستخدام الذكاء الاصطناعي للتنبؤات الصحية وتوصيات مخصصة.
+
+### **🔹 Next-Generation Social Platform**
+
+منصة إنتاجية وجاميفيكيشن بمدرب ذكاء اصطناعي، ودوائر مهارية.
+
+### **🔹 Muscles Action – E‑Commerce Platform**
+
+منصة تجارة إلكترونية كاملة مع Dashboard وإدارة طلبات Real‑Time.
+
+### **🔹 Grand Slam – Padel Court Booking**
+
+موقع حجز ملاعب بادل بواجهات عصرية ولوحة إدارة كاملة.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmed\&show_icons=true\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed\&layout=compact\&theme=radical)
+
+---
+
+## 🌍 Connect With Me
+
+* 📂 **Portfolio:** [My Portfolio](#)
+* 📄 **CV:** [My CV](#)
+* 💼 LinkedIn: [Ahmed](#)
+* 🧑‍💻 GitHub: [Ahmed](#)
+
+---
+
+## ✨ Thanks for visiting my profile!
+
+"Always building, always learning 💡"
